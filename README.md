@@ -7,7 +7,7 @@ USER GUIDE:
 3.  Start training!!!
 
 
-The Yale Face Database
+The Yale Face Database:
 ----------------------
 Download Dataset: https://www.kaggle.com/olgabelitskaya/yale-face-database/data
 The database contains 165 GIF images of 15 subjects (subject01, 
