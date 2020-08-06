@@ -1,6 +1,6 @@
 This is a Multiclass classifcation Convolutional Neural Network implimented using Keras,sklearn and tensorflow. The CNN is used for classification of Yale Face data in this use case.
 
-USER GUIDE:
+User Guide:
 ---------------------
 1.  Clone Repo
 2.  In CNNforYale.ipynb set mypath='/content/gdrive/My Drive/Colab Notebooks/Stuff that wokrs/CNN for Yale database/yalefaces' to where your dataset is stored
