@@ -1,3 +1,5 @@
+This is a Multiclass classifcation Convolutional Neural Network implimented using Keras,sklearn and tensorflow. The CNN is used for classification of Yale Face data in this use case.
+
 USER GUIDE:
 ---------------------
 1.  Clone Repo
